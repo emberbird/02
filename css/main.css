@@ -7,14 +7,14 @@
 }
 
 @media only screen and (max-width: 768px) {
-  img {
+  .slider img {
     width: 100%%;
     height: auto;
   }
 }
 
 @media only screen and (max-width: 1024px) {
-  img {
+ .slider img {
     width: 100%%;
     height: auto;
   }
