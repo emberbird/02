@@ -6,6 +6,20 @@
 	font-family: 'Titillium Web', sans-serif;
 }
 
+@media only screen and (max-width: 768px) {
+  img {
+    width: 100%%;
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  img {
+    width: 100%%;
+    height: auto;
+  }
+}
+
 body{
 	font-family: 'Source Sans Pro',sans-serif;
 	font-weight: 400;
